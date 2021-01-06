@@ -7,4 +7,4 @@ The application will be built in Python with the Pyomo library for the MPC metho
 
 ## Code Usage
 
-Feel free to use this project in any application you wish. Just remember to mention the author if you are using an unmodified version of it. If you ever claim to be the owner/creator of this project, you are commiting a fraud :)
+Feel free to use this project in any application you wish. Just remember to mention the authors if you are using an unmodified version of it. If you ever claim to be the owner/creator of this project, you are commiting a fraud :)

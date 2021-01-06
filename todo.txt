@@ -2,9 +2,11 @@ THIAGO:
 
 - Criar interface de simulação basica
 - Descobrir como definir obstáculos (safety regions)
+- Criar Branch para o Simutation with PyGame
 
 ------------------------------------------------------------
 
 DANRLEY:
 
 - Estudar Pyomo
+- Estudar Branches em Git

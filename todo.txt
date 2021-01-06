@@ -2,3 +2,9 @@ THIAGO:
 
 - Criar interface de simulação basica
 - Descobrir como definir obstáculos (safety regions)
+
+------------------------------------------------------------
+
+DANRLEY:
+
+- Estudar Pyomo

@@ -9,4 +9,4 @@ THIAGO:
 DANRLEY:
 
 - Estudar Pyomo
-- Estudar Branches em Git
+- Estudar Branches em Git 
